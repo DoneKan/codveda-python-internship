@@ -1,7 +1,7 @@
 
 
 # OpenWeatherMap API Configuration
-API_KEY = "replace with your api"  
+API_KEY = "Donekan"  # replace with actual API key 
 
 # API Base URL
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
