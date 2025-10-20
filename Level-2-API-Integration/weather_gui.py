@@ -29,7 +29,7 @@ class WeatherApp:
         self.root.configure(bg="#1e3a5f")
         
         # Check API key
-        if API_KEY == "your_api_key_here":
+        if API_KEY == "DoneKan":
             messagebox.showerror(
                 "Configuration Error",
                 "API key not configured!\n\nPlease:\n"
