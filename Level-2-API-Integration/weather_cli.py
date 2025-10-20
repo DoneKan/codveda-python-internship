@@ -155,7 +155,7 @@ def main():
     print("🔗 Codveda Technology - Python Internship\n")
     
     # Check if API key is configured
-    if API_KEY == "your_api_key_here":
+    if API_KEY == "DoneKan":
         print("❌ Error: API key not configured!")
         print("\n📝 Please follow these steps:")
         print("   1. Visit: https://openweathermap.org/api")
