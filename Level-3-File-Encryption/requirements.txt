@@ -1,0 +1,12 @@
+# File Encryption/Decryption Tool Requirements
+# Python 3.7 or higher required
+
+# Core dependency for encryption
+cryptography>=41.0.0
+
+# GUI (comes pre-installed with Python)
+# tkinter (built-in)
+
+# For development (optional)
+# pylint>=2.0.0
+# black>=22.0.0
