@@ -1,0 +1,16 @@
+# API Integration - Weather App Requirements
+# Python 3.7 or higher required
+
+# Core dependencies
+requests>=2.28.0
+urllib3>=1.26.0
+
+# For GUI version (comes pre-installed with Python)
+# tkinter (built-in)
+
+# Optional for enhanced features
+Pillow>=9.0.0
+
+# For development (optional)
+# pylint>=2.0.0
+# black>=22.0.0
