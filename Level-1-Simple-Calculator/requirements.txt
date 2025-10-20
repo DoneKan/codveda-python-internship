@@ -1,1 +1,9 @@
+# Simple Calculator - Requirements
+# Python 3.7 or higher required
 
+# No external dependencies for CLI version
+# Tkinter comes pre-installed with Python for GUI version
+
+# For development (optional):
+# pylint>=2.0.0
+# black>=22.0.0
